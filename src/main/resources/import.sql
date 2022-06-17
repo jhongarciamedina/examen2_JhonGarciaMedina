@@ -1,0 +1,2 @@
+insert into usuarios(usuario,password,rol) values('administrador','$2a$12$Npf/t0HmOp4S813QmCuWhOZn8UJHeLpcub6wC3hFipYbbfNHCG83i','ROLE_ADMIN')
+insert into usuarios(usuario,password,rol) values('usuario','$2a$12$IcrUb.yRQdpaQEPUK8.6wOPW.37SCJ8D8PxTduoRw.3ZcrHdiBTPS','ROLE_USER')
